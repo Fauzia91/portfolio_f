@@ -13,7 +13,7 @@ export default function Resume ({setScreen}){
     <main>
         <div>
             <p>
-                [Full Name]
+                Fauzia Azad 
             </p>
             <h3>Company Name <small>Jan 22 - Present</small></h3>
             <h4>Job Title</h4>
