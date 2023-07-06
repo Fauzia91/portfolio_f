@@ -16,8 +16,7 @@ Created a portfolio using my react skills to showcase the use of advanced softwa
 
 ### Deployed
 
-Go to 
-
+Go to https://fauzia91.github.io/portfolio_f/
 
 
 ### Contributing
@@ -50,6 +49,8 @@ SOFTWARE.
 
 ### Github
 
-
+https://github.com/Fauzia91/portfolio_f
 
 ### Contact
+
+Fauzia_azad91@yahoo.com
