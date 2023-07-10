@@ -8,6 +8,13 @@ Created a portfolio using my react skills to showcase the use of advanced softwa
 
 <img width="1091" alt="Screenshot 2023-07-10 at 6 07 46 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/efb68920-a2d1-477a-a5b6-5f7866cb56c8">
 
+<img width="1097" alt="Screenshot 2023-07-10 at 6 07 33 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/5bca35d8-f391-4c3a-bf45-e7a5a095837a">
+
+<img width="1095" alt="Screenshot 2023-07-10 at 6 08 18 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/adb04c3d-a234-473e-ac39-940dc19e7c34">
+
+<img width="1095" alt="Screenshot 2023-07-10 at 6 08 31 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/87b5e46f-15b1-479d-97f0-ea65481c5def">
+
+<img width="1094" alt="Screenshot 2023-07-10 at 6 08 45 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/27bb5cbc-4cd6-4158-81ac-cbeb47afc2b4">
 
 
 ### Table of Contents
