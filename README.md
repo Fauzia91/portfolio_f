@@ -4,6 +4,11 @@
 
 Created a portfolio using my react skills to showcase the use of advanced softwares for recent projects. 
 
+### Images
+
+img width="1091" alt="Screenshot 2023-07-10 at 6 07 46 PM" src="https://github.com/Fauzia91/SocialNetwork_F/assets/123041731/efb68920-a2d1-477a-a5b6-5f7866cb56c8"
+
+
 
 ### Table of Contents
 ***

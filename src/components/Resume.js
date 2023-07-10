@@ -16,6 +16,11 @@ export default function Resume ({setScreen}){
                 Fauzia Azad 
             </p>
             <h3>Company Name <small>Jan 22 - Present</small></h3>
+            <h4>Proficiencies</h4>
+            <p>
+                Javascript, HTML, CSS
+            </p>
+            
             <h4>Job Title</h4>
             <p>
                 Responsibility: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur hic laborum recusandae, repudiandae sapiente voluptatibus voluptatum. Alias commodi consequatur, cupiditate enim eveniet facilis harum iure nobis, non provident sint vel.
