@@ -28,7 +28,7 @@ Created a portfolio using my react skills to showcase the use of advanced softwa
 
 ### Deployed
 
-Go to https://fauzia91.github.io/portfolio_f/
+Go to https://portfoliof2023-b41f86bf87c6.herokuapp.com/
 
 
 ### Contributing
